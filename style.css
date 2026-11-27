@@ -5,10 +5,10 @@
          }
          #nav_bar {
                 font: 200px;
-                background-color: rgb(16, 179, 43);
+                background-color: rgb(37, 11, 155);
         }
         #nav_bar a {
-            color: rgb(22, 21, 19);
+            color:white;
             margin-left: 20px;
             text-decoration: none;
         }
@@ -70,13 +70,13 @@
             padding: 20px;
         }
         .product img{
-            width: 100px;
-            height: 100px;
+            width: 200px;
+            height: 200px;
         }
         #login_form {
             height: 200px;
             width: 300px;
-            background-color: #dbf54b ;
+            background-color: #55d6c1 ;
             text-align: center;
             margin-top: 20%;
             margin-left: 40%;
@@ -95,7 +95,7 @@
         #reg_form{
             height: auto;
             width: 300px;
-            background-color: #d0e750 ;
+            background-color: #55d6c1 ;
             text-align: center;
             margin-top: 20%;
             margin-left: 40%;
